@@ -1,0 +1,8 @@
+{
+    "CycleJsonPath": "../../json",
+    "MyKey": "874721b0cfd73d79c76c50d5b2ee59f7d9fe9c5743bc45c015c713903b46b7c4",
+    "OtherKey": "123721b0cfd73d79c76c50d5b2ee59f7d9fe9c5743bc45c015c713903b46b7c4",
+    "BlockchainInformationFetchingAddress": "http://localhost:8080/blockchain-information",
+    "AssetPath": "../../../assets",
+    "ResourcesPath": "../../resources"
+}

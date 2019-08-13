@@ -1,0 +1,7 @@
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Total Billing Amount</h5>
+    <h1 class="card-text text-success mt-2 mb-5">{{value | formatValue}}</h1>
+    <a [href]="invoicingService.getInvoicePath()" class="btn btn-link btn-sm">Download Invoice</a>
+  </div>
+</div>

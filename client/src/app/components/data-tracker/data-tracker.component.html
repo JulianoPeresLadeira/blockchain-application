@@ -1,0 +1,18 @@
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Payload</th>
+      <th scope="col">Date</th>
+      <th scope="col">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let entry of data; let i = index">
+      <th scope="row">{{i + 1}}</th>
+      <td>{{entry.payload}}</td>
+      <td>{{entry.date | formatDate}}</td>
+      <td>{{entry.amount}}</td>
+    </tr>
+  </tbody>
+</table>
