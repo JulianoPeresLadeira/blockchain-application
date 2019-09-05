@@ -1,7 +1,7 @@
 
-# Coding Challenge - Full Stack
+# Blockchain Application
 
-Coding challenge for the Senior Full Stack position. It consisted of creating a couple of dashboards and an invoice service for a simple pay-per-use blockchain application.
+A couple of dashboards and an invoice service for a simple pay-per-use blockchain application.
 
 ## Project Overview
 
